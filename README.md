@@ -41,3 +41,14 @@ Play a classic game of Tic-Tac-Toe and enjoy the added feature of changing the b
 
  **Toggle Color Modes:**
  - Use the "Change Color Mode" button to switch between different background color themes.
+
+
+## Contributing
+
+If you'd like to contribute to the Tic-Tac-Toe Web Game, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a pull request.
