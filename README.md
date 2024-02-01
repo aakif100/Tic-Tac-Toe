@@ -22,3 +22,16 @@ Play a classic game of Tic-Tac-Toe and enjoy the added feature of changing the b
 - **Classic Tic-Tac-Toe Gameplay:** Enjoy the timeless game with a clean and intuitive interface.
 - **Background Color Mode:** Change the background color mode to suit your preferences or mood.
 - **Responsive Design:** Play seamlessly on various devices, ensuring a smooth gaming experience.🎉
+
+ ## How to Play
+
+
+2. **Start the Game:**
+   - Click on the cells to make your move.
+   - Alternately, play against a friend by taking turns.
+
+3. **Winning the Game:**
+   - Achieve three in a row horizontally, vertically, or diagonally to win.
+
+4. **Restart the Game:**
+   - Click the "Restart" button to start a new game. 
