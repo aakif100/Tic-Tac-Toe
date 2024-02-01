@@ -52,3 +52,14 @@ If you'd like to contribute to the Tic-Tac-Toe Web Game, follow these steps:
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to explore the code, enhance the gameplay, or add new features. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/your-username/tic-tac-toe/issues).
+
+Happy gaming! 
+
