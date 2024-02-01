@@ -15,12 +15,19 @@ Play a classic game of Tic-Tac-Toe and enjoy the added feature of changing the b
 
 ## Preview
 
-![Tic-Tac-Toe Preview](images/tic_tac_toe_preview.gif)
+![pre1](https://github.com/aakif100/Tic-Tac-Toe/assets/137098447/991c8914-0e69-428f-9ff0-91a9a2b8f15f)
 
+
+![pre2](https://github.com/aakif100/Tic-Tac-Toe/assets/137098447/441b96eb-6595-4fa1-b908-f1da00e3151b)
+
+
+![pre3](https://github.com/aakif100/Tic-Tac-Toe/assets/137098447/12231d5d-058c-4eb4-88aa-5d626322495c)
 ## Features
 
 - **Classic Tic-Tac-Toe Gameplay:** Enjoy the timeless game with a clean and intuitive interface.
-- **Background Color Mode:** Change the background color mode to suit your preferences or mood.
+- **Background Color Mode:** Change the background color mode to suit your preferences or mood.![pre2](https://github.com/aakif100/Tic-Tac-Toe/assets/137098447/f6ebddcf-9ff8-48a8-a2c1-cfc4b5dde772)
+![pre3](https://github.com/aakif100/Tic-Tac-Toe/assets/137098447/d1684cb1-cf99-4cc4-a2ce-8431f96d8b8c)
+
 - **Responsive Design:** Play seamlessly on various devices, ensuring a smooth gaming experience.🎉
 
  ## How to Play
@@ -62,4 +69,6 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to explore the code, enhance the gameplay, or add new features. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/aakif100/tic-tac-toe/issues).
 
 Happy gaming! 
+
+
 
