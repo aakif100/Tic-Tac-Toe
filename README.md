@@ -34,4 +34,10 @@ Play a classic game of Tic-Tac-Toe and enjoy the added feature of changing the b
    - Achieve three in a row horizontally, vertically, or diagonally to win.
 
 4. **Restart the Game:**
-   - Click the "Restart" button to start a new game. 
+   - Click the "Restart" button to start a new game.
+
+     
+## Change Background Color Mode
+
+ **Toggle Color Modes:**
+ - Use the "Change Color Mode" button to switch between different background color themes.
