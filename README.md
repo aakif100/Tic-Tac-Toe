@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the code, enhance the gameplay, or add new features. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/your-username/tic-tac-toe/issues).
+Feel free to explore the code, enhance the gameplay, or add new features. If you have any questions or suggestions, don't hesitate to [open an issue](https://github.com/aakif100/tic-tac-toe/issues).
 
 Happy gaming! 
 
